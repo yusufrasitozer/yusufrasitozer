@@ -12,6 +12,7 @@ JavaScript
 -Jquery
 -React
 -Vue JS
+
 And for the backend:
 
 PHP
